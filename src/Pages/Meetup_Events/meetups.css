@@ -1,0 +1,22 @@
+.mode-btn {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    border: none;
+    padding: 0.7rem;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: white;
+    text-align: center;
+  }
+  .img{
+    width: 500px;
+    height: auto;
+    border-radius: 12px;
+  }
+  .box-upper{
+    position: relative;
+    
+  }

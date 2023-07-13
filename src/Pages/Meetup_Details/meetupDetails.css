@@ -1,0 +1,38 @@
+.flex {
+  display: flex;
+  background-color: rgb(250, 244, 244);
+  gap: 0.5rem;
+}
+.left-box {
+  text-align: left;
+  padding: 1rem;
+  width: 70%;
+}
+.event-tag {
+  background-color: rgb(238, 68, 68);
+  width: fit-content;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+.right-box {
+  padding: 0.5rem;
+  width: 30%;
+}
+.date-time {
+  background-color: white;
+  padding: 1rem;
+}
+.speaker-list{
+    display: flex;
+    gap: 0.5rem;
+    height: fit-content;
+}
+.speaker {
+  background-color: white;
+  padding: 1rem;
+  gap: 0.4rem;
+  border-radius: 10px;
+}
+.speaker-img {
+  border-radius: 50%;
+}
